@@ -53,5 +53,5 @@ Power Query – Data cleaning & transformation
 🎨 Clean UI: Purple-themed, modern, and business-friendly design
 
 Screenshot // Demo
-show whats the dashboard look like.
+show whats the dashboard look like. - ![alt text](
 https://github.com/naman1701-v/Sales-dashboard/blob/main/Sales%20dashboard%20image.png
