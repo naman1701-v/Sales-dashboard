@@ -52,3 +52,5 @@ Power Query – Data cleaning & transformation
 
 🎨 Clean UI: Purple-themed, modern, and business-friendly design
 
+Screenshot // Demo
+show whats the dashboard look like.
