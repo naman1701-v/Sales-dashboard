@@ -54,3 +54,4 @@ Power Query – Data cleaning & transformation
 
 Screenshot // Demo
 show whats the dashboard look like.
+https://github.com/naman1701-v/Sales-dashboard/blob/main/Sales%20dashboard%20image.png
